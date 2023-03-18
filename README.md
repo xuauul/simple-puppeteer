@@ -16,7 +16,7 @@ $ npm install puppeteer
 
 ```json
 {
-    "date": "July 20, 2021"
+    "date": "July 20, 2021",
     "label": "...",
     "source": "...",
     "text": "...",
